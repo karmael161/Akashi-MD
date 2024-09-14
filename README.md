@@ -1,5 +1,5 @@
 ## AKASHI WHATSAPP MD BOT
-<h1 align="center"> TEAMS SASAKI-TECH </h1> 
+<h1 align="center"> 亗𝑆𝐴𝑆𝐴𝐾𝐼 𝐹𝐴𝑀𝐼𝐿𝑌亗 </h1> 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -28,7 +28,7 @@
 
 <h3 align="center">AKASHI-MD WHATSAPP BOT</h3>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-TEAMS SASAKI_TECH-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-亗𝑆𝐴𝑆𝐴𝐾𝐼 𝐹𝐴𝑀𝐼𝐿𝑌亗-red.svg?style=for-the-badge&logo=github"></a>
 </a>
 </p>
 <p align="center">
@@ -126,13 +126,17 @@ Scan the QR or Get pairing code.
 <h2 align="center"> Star This Repo If You like Damon-Salvatore-MD 🌟
 </h2>
 
-#### DEVELOPPEUR 
+#### 亗DEVELOPPEUR亗 💀
 
 <a href="https://github.com/AKASHI-SASAKI"><img src="https://github.com/AKASHI-SASAKI.png" alt="AKASHI-SASAKI"/></a>
 
-#### COLLABORATEUR 
+#### 亗COLLABORATEUR亗 💀
 
 <a href="https://github.com/Alp24ni"><img src="https://github.com/Alp24ni.png" alt="Alp24ni"/></a>
 
 
 ## NB: COPY CODE IF YOU WANT BUT DON'T FORGET TO GIVE CREDIT TO ME
+
+
+
+<h1 align="center"> 亗𝑆𝐴𝑆𝐴𝐾𝐼 𝐹𝐴𝑀𝐼𝐿𝑌亗 </h1>
