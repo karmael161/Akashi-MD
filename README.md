@@ -126,11 +126,13 @@ Scan the QR or Get pairing code.
 <h2 align="center"> Star This Repo If You like Damon-Salvatore-MD 🌟
 </h2>
 
-#### Developer 
+#### DEVELOPPEUR 
 
 <a href="https://github.com/AKASHI-SASAKI"><img src="https://github.com/AKASHI-SASAKI.png" alt="AKASHI-SASAKI"/></a>
 
+#### COLLABORATEUR 
 
+<a href="https://github.com/Alp24ni"><img src="https://github.com/Alp24ni.png" alt="Alp24ni"/></a>
 
 
 ## NB: COPY CODE IF YOU WANT BUT DON'T FORGET TO GIVE CREDIT TO ME
