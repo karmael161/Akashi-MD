@@ -1,45 +1,39 @@
 ## AKASHI WHATSAPP MD BOT
-</p>
-<p align="center">
-  <a href="https://github.com/AKASHI-SASAKI/Akashi-MD">
-    <img alt=Support height="300" src="https://telegra.ph/file/6deb3281f66b574e3264e.jpg"> 
-    </p>
-<h1 align="center">    AKASHI-MD
-</h1>
+<h1 align="center"> TEAMS SASAKI-TECH </h1> 
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<h1 align="center"> AKASHI-MD </h1>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS+FOR+CHOOSING+SASAKI-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+亗𝑆𝐴𝑆𝐴𝐾𝐼 𝐹𝐴𝑀𝐼𝐿𝑌亗" alt="Typing SVG" /></a>
+  </p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center"> 
-  
-<p align="center"> A Whatsapp Bot done by SASAKI AKASHI
- 
-  </a>
-</p>
-<p align="center">
-<a href="https://github.com/AKASHI-SASAKI"><img title="Author" src="https://img.shields.io/badge/Akashi-MD-MULTI_DEVICE-black?style=for-the-badge&logo=github"></a>
+<img src="https://telegra.ph/file/6deb3281f66b574e3264e.jpg" />
 <p/>
-
-
-
----  
-
-</p>
-
-
-   <p align="left">
-  <a href="https://github.com/AKASHI-SASAKI/Akashi-MD/fork">
-    <img src="https://img.shields.io/github/forks/AKASHI-SASAKI/Akashi-MD?label=Fork&style=social">
-  <p align="left"> 
-  <a href="https://github.com/AKASHI-SASAKI/Damon-Salvatore-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/AKASHI-SASAKI/Akashi-MD?style=social">
-      
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
- 
-
-</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{AKASHI-SASAKI}/count.svg" alt="AKASHI-SASAKI :: Visitor's Count" /></p>
 <p align="center">
- <a href="https://whatsapp.com/channel/0029VaoOYCpHgZWcZwhD6V21" target="_blank">
-    <img alt="whatsapp Channel" src="https://img.shields.io/badge/ Whatsapp Support Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=Blue" />
-  </a>
+<a href="https://github.com/AKASHI-SASAKI"><img title="Author" src="https://img.shields.io/badge/SASAKI Bot-black?style=for-the-badge&logo=whatsApp"></a>
+<p/>
+<p align="center">
+<a href="https://github.com/AKASHI-SASAKI?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AKASHI-SASAKI?label=Followers&style=social"></a>
+<a href="https://github.com/AKASHI-SASAKI/Akashi-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AKASHI-SASAKI/Akashi-MD?&style=social"></a>
+<a href="https://github.com/AKASHI-SASAKI/Akashi-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/AKASHI-SASAKI/Akashi-MD?style=social"></a>
+<a href="https://github.com/AKASHI-SASAKI/Akashi-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AKASHI-SASAKI/Akashi-MD?label=Watching&style=social"></a>
 </p>
+
+<h3 align="center">AKASHI-MD WHATSAPP BOT</h3>
+<p align="center">
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-TEAMS SASAKI_TECH-red.svg?style=for-the-badge&logo=github"></a>
+</a>
+</p>
+<p align="center">
+<a href="https://github.com/AKASHI-SASAKI"><img title="Author" src="https://img.shields.io/badge/AKASHI-MD-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaoOYCpHgZWcZwhD6V21"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/242067274660"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
+<p/>
 
 
 
