@@ -51,8 +51,9 @@
 
 ### 2. SESSION ID
 Scan the QR or Get pairing code.
+
     <br>
-<a href='https://sasaki-akashi-session.onrender.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/SESSION_ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=green&color=Blue'/></a>
+<a href='https://akashi-session.onrender.com' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/SESSION_ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=green&color=Blue'/></a>
 
 
 
